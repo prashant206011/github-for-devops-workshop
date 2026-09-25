@@ -1,0 +1,48 @@
+ 1        0.577 try { . "c:\Users\Acer\AppData\L…
+ python -u "c:\Users\Acer\OneDriv…
+python -u "c:\Users\Acer\OneDriv…
+ls
+ls -l
+Get-ChildItem | Format-List
+rm testing.py
+git init
+dir
+git init
+git status
+git status
+clear
+dir
+  16        0.068 python -u "c:\Users\Acer\OneDriv…
+  17        0.091 git status
+  18        4.564 clea
+  19        0.159 claer
+  20        0.008 clear
+  21        0.127  git status
+  22        0.145 git add testing.py
+  23        0.099 git status
+  24        0.072 git commit -m "add testing files"
+  25        0.060 git commit
+  26        0.043 git commit -m "add testing files"
+clear
+  28        0.109 git commit -m "add testing files"
+  29        0.051 git config --global user.email "…
+  30        0.052 git config --global user.name "P…
+  31        0.278 git commit -m "add testing files"
+  32        0.053 git status
+  33        0.004 rm testing.py
+  34        0.001 clear
+  35        0.005 dir
+  36        0.001 clear
+  37        0.068 git restore testing.py
+  94        0.165 get remote set
+  95        0.064 git remote set-url origin
+  96        0.036 git remote -v
+  97        1.755 git push origin master
+  98        1.637 git push origin master
+  99        0.084 git add addtest.py
+ 100        0.045 git -status
+ 101        0.095 git commit -m "add addtest"
+ 102        0.044 git commit -m "add addtest"
+ 103        0.048 git commit -m "add addtest"
+ 104        0.038 git remote set-url origin https:…
+ 105        2.793 git push origin master
